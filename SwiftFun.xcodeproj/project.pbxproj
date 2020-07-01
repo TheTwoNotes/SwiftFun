@@ -62,8 +62,8 @@
 			children = (
 				2343FA1C24AD3B890010F362 /* AppDelegate.swift */,
 				2343FA1E24AD3B890010F362 /* GameScene.sks */,
-				2343FA2024AD3B890010F362 /* Actions.sks */,
 				2343FA2224AD3B890010F362 /* GameScene.swift */,
+				2343FA2024AD3B890010F362 /* Actions.sks */,
 				2343FA2424AD3B890010F362 /* GameViewController.swift */,
 				2343FA2624AD3B890010F362 /* Main.storyboard */,
 				2343FA2924AD3B8A0010F362 /* Assets.xcassets */,

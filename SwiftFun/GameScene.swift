@@ -11,16 +11,19 @@ import GameplayKit
 
 class GameScene: SKScene {
     
-    private var label : SKLabelNode?
     private var spinnyNode : SKShapeNode?
+    var label: SKLabelNode?
     
     override func didMove(to view: SKView) {
         
         // Get label node from scene and store it for use later
-        self.label = self.childNode(withName: "//helloLabel") as? SKLabelNode
-        if let label = self.label {
-            label.alpha = 0.0
-            label.run(SKAction.fadeIn(withDuration: 2.0))
+        label = SKLabelNode(text: "Hello, game!")
+        
+        if let lbl = label {
+            lbl.position = CGPoint(x: 0.0, y: 0.0)
+            lbl.fontName = "Helv"
+            lbl.fontSize = 48.0
+            addChild(lbl)
         }
         
         // Create shape node to use during mouse interaction
