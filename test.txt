@@ -1,3 +1,0 @@
-SwiftFun
-SwiftFun.xcodeproj
-test.txt
