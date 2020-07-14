@@ -9,7 +9,7 @@ Project was built over several weeks and developed into current iteration.
 * Twitter: [@TheTwoNotes](https://twitter.com/TheTwoNotes)
 * Email: *[Cal30@BGESoftware.com](mailto:cal30@bgesoftware.com)*
 * Company: *BGE Software*
-* Website: *[BGE Software](http://BGESoftware.com)*
+* Website: *[BGESoftware.com](http://BGESoftware.com)*
 
 ## SwiftFun
 
