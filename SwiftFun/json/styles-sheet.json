@@ -1,0 +1,31 @@
+{
+    "fontName": "Arial",
+    "fontNameItalic": "Arial Italic",
+    "fontNameBold": "Arial Bold",
+    "fontNameBoldItalic": "Airal Bold Italic",
+    
+    "fontSizeEndOfGame": 60.0,
+    "fontSizeLarge": 30.0,
+    "fontSize": 24.0,
+    "fontSizeSmall": 20.0,
+    "fontColorHex": "#d1ae1b99",
+    "fontColorBrightHex": "#ffffffff",
+            
+    "fontColorGoodHex": "#00ff00ff",
+    "fontColorFairHex": "#f4cb0fff",
+    "fontColorWarnHex": "#e6891aff",
+    "fontColorFailHex": "#ff0000ff",
+    "fontColorNeutralHex": "#ffd85388",
+    "fontColorNeutralBrightHex": "#ffd853ff",
+
+    "actionColorHex": "#007affff",
+    "narrativeColorHex": "#f0c001ff",
+    "narrativeFontSize": 21.0,
+    
+    "borderedButtonFontName": "Arial",
+    "borderedButtonFontSize": 24.0,
+    "borderButtonCornerRadius": 10.0,
+    
+    "gameCreditFontSize": 16.0,
+}
+
